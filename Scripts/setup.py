@@ -23,4 +23,4 @@ setup(
     # tests_require=['nose'],
 )
 
-Testing exp1
+Testing exp3
